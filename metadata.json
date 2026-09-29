@@ -1,0 +1,6 @@
+{
+  "name": "Keopic Photobooth Management",
+  "description": "Official Keopic Photobooth management platform engineered by xarvind07. Advanced sales incentive tracking, counter commissions, staff attendance, branch benchmarking, and cloud ledger accounting for Keopic Photobooth Pvt Ltd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
